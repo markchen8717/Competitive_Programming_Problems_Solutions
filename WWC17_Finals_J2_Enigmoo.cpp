@@ -1,13 +1,13 @@
 // ConsoleApplication1.cpp : Defines the entry point for the console application.
 //
 
-#include "stdafx.h"
+
 #include <bits/stdc++.h>
 using namespace std;
 
 int getShift(char W, char D)
 {
-
+	
 	return W - D;
 }
 
@@ -43,7 +43,7 @@ int main()
 		question = true;
 		for (int i = 0; i < N; i++)// get every shift from D to W
 		{
-			if (W[i] == D[i])
+			if (W[i] == D[i]) 
 			{
 				break; // stop checking D if Di is equal to Wi
 			}
@@ -53,18 +53,18 @@ int main()
 				//cout << "found !? at f:" << i << "\n";
 				shift = getShift(W[i], D[i]); // get shift from Di to Wi
 				word = false;
-				//	cout << "shift:" << shift << "\n";
+			//	cout << "shift:" << shift << "\n";
 				for (int i = 0; i < N; i++)// check the shift with all chars
 				{
 					if (W[i] != '?')
 					{
 						char test = (char)shifter(D[i], shift);
-						//	cout << "test:" << test << "W[i]: " << W[i] << "\n";
+					//	cout << "test:" << test << "W[i]: " << W[i] << "\n";
 						if (test != W[i]) // STOP CHECKING IF ONE CHAR IS INVALID
 						{
 							//cout << "break" << "\n";
 							break;
-						}
+						}						
 					}
 					if (i == N - 1) // if check runs to the end 
 					{
@@ -87,4 +87,3 @@ int main()
 	cout << ans;
 	return 0;
 }
-
