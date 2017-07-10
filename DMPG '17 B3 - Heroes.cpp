@@ -1,7 +1,6 @@
 // DMPG '17 B3 - Heroes.cpp : Defines the entry point for the console application.
 //
 
-#include "stdafx.h"
 #include <iostream>
 #include <string>
 using namespace std;
@@ -24,6 +23,8 @@ int main()
 
 	for (long int i = 0; i < N; i++)
 	{
+		
+		
 		temphF = hF;
 		cin >> fF >> fD;
 		
@@ -40,6 +41,8 @@ int main()
 				if (temphF <= 0)
 					break;
 			}
+
+			
 			j++;
 		}
 		
@@ -52,4 +55,3 @@ int main()
 
     
 }
-
