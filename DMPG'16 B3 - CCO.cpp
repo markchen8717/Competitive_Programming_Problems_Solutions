@@ -1,7 +1,7 @@
 // DMPG'16 B3 - CCO.cpp : Defines the entry point for the console application.
 //
 
-#include "stdafx.h"
+
 #include <bits/stdc++.h>
 using namespace std;
 
