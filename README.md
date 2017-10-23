@@ -1,5 +1,5 @@
 # My solutions to competitive programming problems
-Question Name<br /><br />
+Question Name<br />
 Question url<br />
 Question <br />
 Input Specification<br />
