@@ -1,6 +1,6 @@
 # My solutions to competitive programming problems
 Question Name<br />
-Question url<br />
+Question URL<br />
 Question <br />
 Input Specification<br />
 Output Specification <br />
