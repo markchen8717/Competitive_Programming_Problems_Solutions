@@ -1,6 +1,6 @@
 # My solutions to competitive programming problems
-Question Name
-Question url
+\nQuestion Name
+\nQuestion url
 Question 
 Input Specification
 Output Specification 
