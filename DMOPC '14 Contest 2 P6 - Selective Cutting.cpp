@@ -1,9 +1,9 @@
 /*
-DMOPC '14 Contest 2 P6 - Selective Cutting
+DMOPC '14 Contest 2 P6 - Selective Cutting https://dmoj.ca/problem/dmopc14c2p6
 
 The Logging Company has been hit with a petition from concerned citizens regarding their uncontrolled tree-cutting. For public relations purposes, they have decided that, moving forward, they will only cut down trees with mass above a certain threshold.
 
-The Logging Company has a line of NN (1¡ÜN¡Ü100000)(1¡ÜN¡Ü100000) trees. Each tree ii has a mass mimi (1¡Ümi¡Ü20000)(1¡Ümi¡Ü20000). The Company wants to cut some of the trees, so they've hired you to calculate the mass of all the wood they would get from cutting all the trees with mimi greater than or equal to qq (1¡Üq¡Ü20000)(1¡Üq¡Ü20000) between positions aa and bb inclusive (0¡Üa¡Üb<N)(0¡Üa¡Üb<N). In particular, they want you to answer QQ (1¡ÜQ¡Ü100000)(1¡ÜQ¡Ü100000) such queries.
+The Logging Company has a line of NN (1â‰¤Nâ‰¤100000)(1â‰¤Nâ‰¤100000) trees. Each tree ii has a mass mimi (1â‰¤miâ‰¤20000)(1â‰¤miâ‰¤20000). The Company wants to cut some of the trees, so they've hired you to calculate the mass of all the wood they would get from cutting all the trees with mimi greater than or equal to qq (1â‰¤qâ‰¤20000)(1â‰¤qâ‰¤20000) between positions aa and bb inclusive (0â‰¤aâ‰¤b<N)(0â‰¤aâ‰¤b<N). In particular, they want you to answer QQ (1â‰¤Qâ‰¤100000)(1â‰¤Qâ‰¤100000) such queries.
 
 Input Specification
 
@@ -11,7 +11,7 @@ The first line will contain the integer NN. For each tree ii, the ithith (from 0
 
 Output Specification
 
-For each query, print the total mass of the trees at position ii such that a¡Üi¡Üba¡Üi¡Üb, and mi¡Ýqmi¡Ýq.
+For each query, print the total mass of the trees at position ii such that aâ‰¤iâ‰¤baâ‰¤iâ‰¤b, and miâ‰¥qmiâ‰¥q.
 
 Sample Input
 
