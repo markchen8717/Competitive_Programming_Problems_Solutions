@@ -1,5 +1,7 @@
 /*
-Bhupee's Craze https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/bhupees-craze-7d960eab-24ff51e3/
+Bhupee's Craze 
+
+https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/bhupees-craze-7d960eab-24ff51e3/
 
 Craze of programming always have been there in industries, so maximum number of companies are trying to get in touch with good programmers. For this a well established company "SundayCoders" is organizing a party for interested programmers.Bhupee is interested for this function too. But here comes a problem, the party is open for couples only. So he asked his friends to help him out. They suggested him some names,but due to Bhupee's obsession towards factorials, he will select the girl whose name has minimum factorial value of the occurence of unique characters. Can you help him out?(Move to sample i/o for further details):
 
