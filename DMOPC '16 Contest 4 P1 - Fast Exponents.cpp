@@ -1,3 +1,42 @@
+/*
+
+DMOPC '16 Contest 4 P1 - Fast Exponents
+
+https://dmoj.ca/problem/dmopc16c4p1
+
+Molly's teacher assigned her very tedious homework:
+
+Given an integer iiii, find out if it's a power of two or not
+
+Molly asks Andrew, but he would much rather play Geometry Dash, so he decides to enslave ask you to do it instead!
+
+Input Specification
+
+The first line will contain a single integer, NN.
+Lines 2…N+12…N+1 will each contain an integer, iiii.
+
+Output Specification
+
+For each of the NN integers, output T if they are a power of 22, otherwise output F
+
+Constraints
+
+1≤N≤1061≤N≤106
+1≤ii<2631≤ii<263
+
+Sample Input
+
+Copy
+2
+1
+3
+Sample Output
+
+Copy
+T
+F
+
+*/
 #include<bits/stdc++.h>
 
 using namespace std;
