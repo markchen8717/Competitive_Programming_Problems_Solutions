@@ -1,9 +1,9 @@
 # My solutions to competitive programming problems
-\nQuestion Name
-\nQuestion url
-Question 
-Input Specification
-Output Specification 
-Sample Input
-Sample Output
-Explanation
+Question Name<br /><br />
+Question url<br />
+Question <br />
+Input Specification<br />
+Output Specification <br />
+Sample Input<br />
+Sample Output<br />
+Explanation<br />
