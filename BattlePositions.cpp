@@ -1,5 +1,6 @@
 /*
-Battle Positions https://dmoj.ca/problem/seed3
+Battle Positions 
+https://dmoj.ca/problem/seed3
 The ZAFT are attacking the Orb Union! There are II stations, numbered from (1,2,…,I−1,I1,2,…,I−1,I), that need to be defended. For it to be secure, the Orb Union needs to have at least NN troops at each station. Unfortunately, due to the radar-jamming effects of the Neutron Jammer, the Orb Union cannot order their troops to move between stations. The Orb Union will send JJ waves of troops, each of which sends KK troops to each of the stations (Xi,Xi+1,…,Xf−1,XfXi,Xi+1,…,Xf−1,Xf). All stations start with 00 troops.
 
 The Orb Union wants you to help them find the number of stations that are not secure.
