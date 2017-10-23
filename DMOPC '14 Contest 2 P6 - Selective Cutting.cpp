@@ -1,5 +1,7 @@
 /*
-DMOPC '14 Contest 2 P6 - Selective Cutting https://dmoj.ca/problem/dmopc14c2p6
+DMOPC '14 Contest 2 P6 - Selective Cutting 
+
+https://dmoj.ca/problem/dmopc14c2p6
 
 The Logging Company has been hit with a petition from concerned citizens regarding their uncontrolled tree-cutting. For public relations purposes, they have decided that, moving forward, they will only cut down trees with mass above a certain threshold.
 
