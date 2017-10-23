@@ -1,1 +1,1 @@
-# My solutions to competition programming problems
+# My solutions to competitive programming problems
