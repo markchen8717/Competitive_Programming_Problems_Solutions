@@ -1,7 +1,7 @@
 /*
 Woburn Challenge 2016-17 Round 1 - Junior Division
 
-Problem 2: Frankenstein's Monster
+Frankenstein's Monster
 
 http://wcipeg.com/problem/wc161j2
 
