@@ -1,6 +1,39 @@
-// Crossing F.cpp : Defines the entry point for the console application.
-//
+/*
+You are about to cross an NN by NN meter field. However, you are not sure if it's actually possible to do so. Each square meter of the field has an elevation value — you may only cross into an adjacent square meter if the distance between the centres of the squares is equal to one and if the elevation difference between the squares is less than or equal to HH (0≤H≤1000)(0≤H≤1000).
 
+Determine whether it is possible to cross the field or not if you start at the top left corner, square (1,1)(1,1), and end in the bottom right corner, square (N,N)(N,N).
+
+Input Specification
+
+The first line of input will contain 2 integers: NN and HH.
+
+The next NN lines will contain NN integers each, the elevation of that square meter of the field. The elevation will be an integer between 00 and 10001000.
+
+Output Specification
+
+On a single line, output "yes" (without the quotes) if you can cross the field; otherwise, output "no" (without the quotes).
+
+Constraints
+
+Test Case Batch	Marks	Time Limit	Memory Limit	Constraints
+1 [5 cases]	80	10 s	256 MiB	1≤N≤1001≤N≤100
+2 [2 cases]	20	10 s	256 MiB	1≤N≤15001≤N≤1500
+Sample Input
+
+Copy
+4 3
+3 6 4 9
+7 1 2 3
+7 7 2 2
+7 7 1 5
+Sample Output
+
+Copy
+yes
+Explanation for Sample Output
+
+From the top left square, you can go right, right, down, down, right, down to reach the bottom right square.
+*/
 #include "stdafx.h"
 
 
