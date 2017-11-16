@@ -1,4 +1,5 @@
 /*
+https://dmoj.ca/problem/dmopc13c3p3
 You are about to cross an NN by NN meter field. However, you are not sure if it's actually possible to do so. Each square meter of the field has an elevation value — you may only cross into an adjacent square meter if the distance between the centres of the squares is equal to one and if the elevation difference between the squares is less than or equal to HH (0≤H≤1000)(0≤H≤1000).
 
 Determine whether it is possible to cross the field or not if you start at the top left corner, square (1,1)(1,1), and end in the bottom right corner, square (N,N)(N,N).
