@@ -64,7 +64,7 @@ Explanation for Sample Output 3
 The Swifts and Semaphores have the same number of total runs after the first game, and after the third game, and after the fourth game. We take the largest of these values (1, 3 and 4) and output 4.
 */
 
-#include "stdafx.h"
+ 
 #include <bits/stdc++.h>
 using namespace std;
 
