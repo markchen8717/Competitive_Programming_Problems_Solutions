@@ -58,7 +58,7 @@ Copy
 
 */
 
-#include "stdafx.h"
+ 
 #include <bits/stdc++.h>
 using namespace std;
 long int sum(int x,vector<long int> &BIT) {
