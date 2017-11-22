@@ -43,7 +43,7 @@ Copy
 The average rank is (1+1+2+2+5)/5=2.20(1+1+2+2+5)/5=2.20.
 */
 
-#include "stdafx.h"
+ 
 #include <bits/stdc++.h>
 using namespace std;
 void update(int x, int v, int N, vector<int> &BIT)
