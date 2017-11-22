@@ -1,4 +1,5 @@
 /*
+A Noisy Class
 https://dmoj.ca/problem/anoisyclass
 One day Mr. Sidhu's class is excessively loud. Unfortunately, giving them an activity about tiles didn't really work.
 
@@ -54,7 +55,7 @@ After telling student 11 to quiet down student 22 will immediately distract him,
 
 */
 
-#include "stdafx.h"
+ 
 #include <stack>
 #include <queue>
 #include <bits/stdc++.h>
