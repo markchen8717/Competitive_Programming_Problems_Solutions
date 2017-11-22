@@ -1,7 +1,8 @@
 /*
+CCC '10 J5 - Knight Hop
 https://dmoj.ca/problem/ccc10j5
 
-CCC '10 J5 - Knight Hop
+
 Canadian Computing Competition: 2010 Stage 1, Junior #5
 
 Below is an 8×88×8 chessboard on which we will designate square locations using the ordered pairs as indicated. For example, notice that piece AA is at position (2,2)(2,2) and piece BB is at position (4,3)(4,3).
