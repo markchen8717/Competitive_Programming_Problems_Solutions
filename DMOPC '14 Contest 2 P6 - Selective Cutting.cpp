@@ -41,7 +41,7 @@ Copy
 
 
 
-#include "stdafx.h"
+ 
 #include <bits/stdc++.h>
 using namespace std;
 void update(int x, int v, int N, vector<int> &BIT)
