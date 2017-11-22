@@ -35,7 +35,6 @@ The low tide measurements (in order) were 1010, 77, 33, and 22.
 The high tide measurements (in order) were 4040, 5050, 9090, and 110110.
 */
 
-#include "stdafx.h"
 #include <bits/stdc++.h>
 using namespace std;
 
