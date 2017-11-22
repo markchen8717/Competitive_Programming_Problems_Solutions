@@ -44,7 +44,7 @@ Sample Output
 35232
 */
 
-#include "stdafx.h"
+ 
 #include <bits/stdc++.h>
 using namespace std;
 
