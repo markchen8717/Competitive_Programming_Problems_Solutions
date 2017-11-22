@@ -39,7 +39,7 @@ deeksha
 */
 
 
-#include "stdafx.h"
+ 
 #include <bits/stdc++.h>
 using namespace std;
 
