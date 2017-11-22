@@ -1,4 +1,5 @@
 /*
+DMOPC '13 Contest 3 P3 - Crossing Field
 https://dmoj.ca/problem/dmopc13c3p3
 You are about to cross an NN by NN meter field. However, you are not sure if it's actually possible to do so. Each square meter of the field has an elevation value — you may only cross into an adjacent square meter if the distance between the centres of the squares is equal to one and if the elevation difference between the squares is less than or equal to HH (0≤H≤1000)(0≤H≤1000).
 
@@ -35,7 +36,7 @@ Explanation for Sample Output
 
 From the top left square, you can go right, right, down, down, right, down to reach the bottom right square.
 */
-#include "stdafx.h"
+ 
 
 
 
