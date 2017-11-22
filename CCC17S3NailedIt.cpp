@@ -57,7 +57,7 @@ Specifically, he may have a fence of height 1111, 101101, 10011001, 20012001, 11
 
 */
 
-#include "stdafx.h"
+ 
 #include <bits/stdc++.h>
 using namespace std;
 
