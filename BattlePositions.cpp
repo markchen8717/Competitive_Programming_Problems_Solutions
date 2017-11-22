@@ -35,7 +35,7 @@ Copy
 
 */
 
-#include "stdafx.h"
+ 
 #include <bits/stdc++.h>
 using namespace std;
 int guards[100000];
