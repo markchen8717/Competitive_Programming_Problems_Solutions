@@ -1,6 +1,7 @@
 /*
-https://dmoj.ca/problem/ccc06j4
 CCC '06 J4 - It's tough being a teen!
+https://dmoj.ca/problem/ccc06j4
+
 
 There is always a list of things to be done!
 
@@ -80,7 +81,7 @@ Notice that task 2 must be done before task 1, which must be done before task 7,
 
 */
 
-#include "stdafx.h"
+ 
 #include <bits/stdc++.h>
 using namespace std;
 
